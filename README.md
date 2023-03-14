@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalazhar65&label=Profile%20views&color=0e75b6&style=flat" alt="naufalazhar65" /> </p>
 
-- 🌱 I’m currently learning **Selenium, Appium, JMeter, Cucumber, Mocha, Pytest**
+- 🌱 I’m currently learning **Selenium, Appium, JMeter, K6, Cucumber, Mocha, Pytest, WebDriver.io**
 
 - 👨‍💻 Portfolio [https://naufalportofolio.naufalazhar4.repl.co/](https://naufalportofolio.naufalazhar4.repl.co/)
 
