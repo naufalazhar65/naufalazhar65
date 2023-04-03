@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Selenium, Appium, JMeter, K6, Cucumber, Mocha, Pytest, WebDriver.io**
 
-- 👨‍💻 Portfolio [https://naufalportofolio.naufalazhar4.repl.co/](https://naufalportofolio.naufalazhar4.repl.co/)
+- 👨‍💻 Portfolio [Click](https://main--portfolio-naufall.netlify.app/)
 
 - 📫 How to reach me **naufalazhar65@gmail.com**
 
