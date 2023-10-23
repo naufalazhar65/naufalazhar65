@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **naufalazhar65@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/naufal-azhar-0b2070240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufal azhar" height="30" width="40" /></a>
