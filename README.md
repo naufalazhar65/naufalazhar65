@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **Automation Testing, Performance Testing, API Testing, CI/CD**
 
-- 👨‍💻 Portfolio [Click](https://portnaufal.netlify.app/)
+- 👨‍💻 Portfolio <a href="https://portnaufal.netlify.app/" target="_blank">Click</a>
+
 
 - 📫 How to reach me **naufalazhar65@gmail.com**
 
