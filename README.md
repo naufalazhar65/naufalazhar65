@@ -31,6 +31,9 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalazhar65&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=naufalazhar65&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 
 <p align="center">
