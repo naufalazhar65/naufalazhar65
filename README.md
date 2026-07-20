@@ -1,4 +1,8 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Naufal</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=800&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Naufal;Software+Quality+Assurance;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,6 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="./Untitled design (1).png" />
-  
 </div>
 
  <br/>
@@ -87,6 +90,10 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=naufalazhar65&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalazhar65&" alt="naufal" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naufalazhar65&color=brightgreen" alt="Profile Views">
+</p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=naufalazhar65&theme=algolia" alt="GitHub Streak" />
+  <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=naufalazhar65&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalazhar65&" alt="naufal" /> -->
 </div>
