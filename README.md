@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
--  🏎 Outside of QA, you'll probably find me racing in a sim rig.
+-  ⚡ Fun fact: I'm a huge Sim Racing enthusiast when I'm away from testing.
 
 ## 🛠️ Technologies and Tools I use:
 
