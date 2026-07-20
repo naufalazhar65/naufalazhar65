@@ -21,15 +21,15 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning `Automation Testing, Performance Testing, API Testing, CI/CD`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate on `QA Automation and Open Source Testing Projects.`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I'm exploring `better testing strategies and automation best practices.`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+-  🏎 Outside of QA, you'll probably find me racing in a sim rig.
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -83,10 +83,6 @@ Here are some ideas to get you started: -->
 
 <p><a href="https://www.linkedin.com/in/naufal-azhar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/naufalazhar65" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
-
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 ## 📊 My GitHub Data:
 
